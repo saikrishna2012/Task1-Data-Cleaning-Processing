@@ -25,5 +25,5 @@ This includes handling missing data, encoding categorical features, scaling nume
 - Saved the cleaned data to a CSV file
 
 ## Output
-- "cleaned_titanic.csv" – cleaned and ready for analysis/modeling
+- `ELEVATE_LABS_INTERNSHIP_TASK1.ipynb` – cleaned and ready for analysis/modeling
 
